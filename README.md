@@ -25,13 +25,13 @@ These are my power BI Example, In previous employment I used SSRS for reports in
 
 In this Power BI report we can filter customer by gender and age to check satisfaction of the flight, average rating of onboard amenities. It also includes a donut chart to categorise flight delays by a specific type which can be selected to see if it influences the overall satisfaction of the flight.
 
-<img src="flight.PNG" alt="OvertimeClaim" style="zoom:60%;" />
+<img src="flight.png" alt="flight" style="zoom:60%;" />
 
 ## Hotel report
 
 In this Power BI report we are able to see year profit based on the selection. We are ablso able to see the percentage of returned customers, the average rating of the hotels and a hotel location map.
 
-<img src="hotel.PNG" alt="OvertimeClaim" style="zoom:60%;" />
+<img src="hotel.png" alt="OvertimeClaim" style="zoom:60%;" />
 
 # Database Design
 
