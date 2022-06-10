@@ -2,7 +2,7 @@
 
 > Hello everyone that views this portfolio.
 
-My name is Aaron Barkas and I am an I.T professional with over 3 and a half years experience in the I.T industry. Working as a Service Desk Analyst and a Database Systems Analyst and Technical writer. 
+My name is Aaron Barkas and I am an I.T professional with over 3.5+ years experience in the I.T industry.
 
 This portfolio is also a work in progress and will improve as my skills develop.
 
