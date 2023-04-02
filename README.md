@@ -4,8 +4,6 @@
 
 My name is Aaron Barkas and I am an I.T professional with over 3.5+ years experience in the I.T industry.
 
-This portfolio is also a work in progress and will improve as my skills develop.
-
 Skills Include:
 
 - Database Design
@@ -16,6 +14,9 @@ Skills Include:
 - Stakeholder Management
 - Jira and confluence
 - Technical Writing
+- Functional Testing
+- Manual Testing
+- Test Planning and Cases
 
 # Power BI Examples
 
