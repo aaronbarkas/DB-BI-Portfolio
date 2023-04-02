@@ -16,7 +16,6 @@ Skills Include:
 - Technical Writing
 - Functional Testing
 - Manual Testing
-- Test Planning and Cases
 
 # Power BI Examples
 
